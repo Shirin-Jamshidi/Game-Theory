@@ -2,7 +2,7 @@
 
 Welcome to the repository for the analysis of the paper **"A Unified Game Theoretic Approach to Multiagent Reinforcement"**. This repository contains a detailed report and a presentation that explain the concepts and methodologies discussed in the paper.
 
-
+ 
 ## Introduction
 
 This repository is dedicated to the study and analysis of the paper **"A Unified Game Theoretic Approach to Multiagent Reinforcement"**. The paper provides a comprehensive approach to applying game theory in the context of multi-agent reinforcement learning. Our analysis includes a detailed report that defines and explains new terminology introduced in the paper, as well as a presentation that summarizes the main concepts and methods with illustrative examples.
