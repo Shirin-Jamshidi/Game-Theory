@@ -28,5 +28,8 @@ Navigate to the repository directory and open the report.pdf file to read the de
 3. **View the Presentation**:
 Open the presentation.pdf file to go through the summarized concepts and examples for a quick understanding of the paper.
 
+## Contributors
 
-salamp
+- [Mahya Shahshahani](https://github.com/mahya-sh)
+- [Mohammad Mashraghi](https://github.com/M-Mashreghi)
+- [Oldouz Neysari](https://github.com/Ouldouz-Neysari)
