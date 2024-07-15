@@ -27,3 +27,6 @@ To get the most out of this repository, follow these steps:
 Navigate to the repository directory and open the report.pdf file to read the detailed analysis.
 3. **View the Presentation**:
 Open the presentation.pdf file to go through the summarized concepts and examples for a quick understanding of the paper.
+
+
+salamp
