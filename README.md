@@ -25,11 +25,11 @@ To get the most out of this repository, follow these steps:
    git clone https://github.com/Shirin-Jamshidi/Game-Theory.git
 2. **Open the Report**:
 
-Navigate to the repository directory and open the report.pdf file to read the detailed analysis.
+   Navigate to the repository directory and open the report.pdf file to read the detailed analysis.
 
 3. **View the Presentation**:
 
-Open the presentation.pdf file to go through the summarized concepts and examples for a quick understanding of the paper.
+   Open the presentation.pdf file to go through the summarized concepts and examples for a quick understanding of the paper.
 
 ## Contributors
 
