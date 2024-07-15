@@ -9,10 +9,11 @@ This repository is dedicated to the study and analysis of the paper **"A Unified
 
 ## Files
 
-- **Report File**: [report.pdf](./report.pdf)
+- **Report File**: [report.pdf](./Report_of_A_Unified_Game-Theoretic_Approach.pdf
+)
   - This file contains a detailed analysis of the paper, including definitions and explanations of new terms and concepts.
   
-- **Presentation File**: [presentation.pdf](./presentation.pdf)
+- **Presentation File**: [presentation.pdf](./Pres.A_Unified_Game-Theoretic_Approach.pdf)
   - This file is a presentation designed to provide a concise and accessible overview of the paper's approach and methodologies, supplemented with examples for better understanding.
 
 ## Usage
